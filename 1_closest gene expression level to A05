@@ -1,0 +1,13 @@
+% Find the closest number in an array to a number
+[minDistance,indexOfMin]=min(abs(V-N);
+
+index=[];
+for n=1:size(A05FPKM,1)
+
+[minDistance,indexOfMin]=min(abs(O5cellines(n,1:5)-A05FPKM(n,:)));
+index=[index,indexOfMin];
+end 
+
+for n=1:size(A05FPKM,1)
+CN(n)=O5cellines(n,index(n));
+end
